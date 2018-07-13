@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="zxx" class="no-js">
+<head>
+	<!-- Mobile Specific Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Favicon-->
+	<link rel="shortcut icon" href="img/fav.png">
+	<!-- Author Meta -->
+	<meta name="author" content="CodePixar">
+	<!-- Meta Description -->
+	<meta name="description" content="">
+	<!-- Meta Keyword -->
+	<meta name="keywords" content="">
+	<!-- meta character set -->
+	<meta charset="UTF-8">
+	<!-- Site Title -->
+	<title>Dinomuz</title>
+
+	<link href="https://fonts.googleapis.com/css?family=Poppins:300,500,600" rel="stylesheet">
+		<!--
+		CSS
+		============================================= -->
+		<link rel="stylesheet" href="css/linearicons.css">
+		<link rel="stylesheet" href="css/owl.carousel.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/nice-select.css">
+		<link rel="stylesheet" href="css/magnific-popup.css">
+		<link rel="stylesheet" href="css/bootstrap.css">
+		<link rel="stylesheet" href="css/main.css">
+	</head>
+	<body>
+		<div class="main-wrapper-first">
+			<header>
+				<div class="container">
+					<div class="header-wrap">
+						<div class="header-top d-flex justify-content-between align-items-center">
+							<div class="logo">
+								<a href="index.html"><img src="img/logo.png" alt=""></a>
+							</div>
+							<div class="main-menubar d-flex align-items-center">
+								<nav class="hide">
+									<a href="index.html">Home</a>
+									<a href="generic.html">Generic</a>
+									<a href="elements.html">Elements</a>
+								</nav>
+								<div class="menu-bar"><span class="lnr lnr-menu"></span></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>
+			<div class="banner-area">
+				<div class="container">
+					<div class="row justify-content-center height align-items-center">
+						<div class="col-lg-8">
+							<div class="banner-content text-center">
+								<span class="text-white top text-uppercase"></span>
+								<h1 class="text-white text-uppercase">Fruit Finder</h1>
+								<a href="#" class="primary-btn d-inline-flex align-items-center"><span class="mr-10">Get Started</span><span class="lnr lnr-arrow-right"></span></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- Start Feature Area -->
+			<!-- <section class="featured-area">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-4">
+							<div class="single-feature d-flex flex-wrap justify-content-between"> -->
+								<!-- <div class="icon d-flex align-items-center justify-content-center">
+									<span class="lnr lnr-sun"></span>
+								</div> -->
+								<!-- <div class="desc" id="para1">
+									<h6 class="title text-uppercase">Selections</h6>
+									<p>How exactly does one find a fresh piece of ripe, sweet, and juicy fruit? With such a large amount of produce in stores and markets, finding the perfect peice of fruit can be overwhelming. Our goal is to help you choose the best fruits out of the ones available to you.</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="single-feature d-flex flex-wrap justify-content-between"> -->
+								<!-- <div class="icon d-flex align-items-center justify-content-center">
+									<span class="lnr lnr-code"></span>
+								</div> -->
+								<!-- <div class="desc">
+									<h6 class="title text-uppercase">Grocery Stores</h6>
+									<p>A quick and probably the most common place to buy fruits and veggies. </p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="single-feature d-flex flex-wrap justify-content-between"> -->
+								<!-- <div class="icon d-flex align-items-center justify-content-center">
+									<span class="lnr lnr-clock"></span>
+								</div> -->
+								<!-- <div class="desc">
+									<h6 class="title text-uppercase">Farmers Markets</h6>
+									<p>Local farmers markets are a great place to buy fresh, delicious fruits and veggies. Not only are they fairly unexpensive, but shopping at markets are a fun way to support local businesses. </p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section> -->
+			<!-- End Feature Area -->
+			<!-- Start Service Area -->
+			<section class="service-area">
+				<div class="container">
+					<div class="row justify-content-center">
+						<div class="col-lg-8">
+							<div class="section-title text-center">
+								<h3 class="text-white">Picking an Buying</h3>
+								<span class="text-white text-uppercase">click a fruit to learn about how and where to buy them!</span>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-service">
+								<div class="thumb" style="background: url(img/melon.jpg);">
+									<div class="overlay overlay-content d-flex justify-content-center align-items-center">
+										<a href="#" class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Get Started</span><span class="lnr lnr-arrow-right"></span></a>
+									</div>
+								</div>
+								<div class="desc">
+									<h6 class="text-uppercase text-white">Watermelons</h6>
+									<p class="text-white">Watermelons grow on vine-like flowering plants and are originally from Africa. There are over 12,000 varieties of watermelon worldwide!</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-service">
+								<div class="thumb" style="background: url(img/mango.jpg);">
+									<div class="overlay overlay-content d-flex justify-content-center align-items-center">
+										<a href="#" class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Get Started</span><span class="lnr lnr-arrow-right"></span></a>
+									</div>
+								</div>
+								<div class="desc">
+									<h6 class="text-uppercase text-white">Mangoes</h6>
+									<p class="text-white">Mangoes are juicy stone fruit that grow on trees in tropical areas. They are natice to South Asia and are the national fruit of India and Pakistan!</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-service">
+								<div class="thumb" style="background: url(img/oranges.jpg);">
+									<div class="overlay overlay-content d-flex justify-content-center align-items-center">
+										<a href="#" class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Get Started</span><span class="lnr lnr-arrow-right"></span></a>
+									</div>
+								</div>
+								<div class="desc">
+									<h6 class="text-uppercase text-white">Oranges</h6>
+									<p class="text-white">Native to Southeast Asia, oranges are citrus fruits and grow on trees that can live to be more than 100 years old!</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-service">
+								<div class="thumb" style="background: url(img/avocado.jpg);">
+									<div class="overlay overlay-content d-flex justify-content-center align-items-center">
+										<a href="#" class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Get Started</span><span class="lnr lnr-arrow-right"></span></a>
+									</div>
+								</div>
+								<div class="desc">
+									<h6 class="text-uppercase text-white">Avocados</h6>
+									<p class="text-white">Avocados grow on flowering trees and are native to Mexico. Avocado trees are partially self-pollinating!  </p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-service">
+								<div class="thumb" style="background: url(img/berries.jpg);">
+									<div class="overlay overlay-content d-flex justify-content-center align-items-center">
+										<a href="#" class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Get Started</span><span class="lnr lnr-arrow-right"></span></a>
+									</div>
+								</div>
+								<div class="desc">
+									<h6 class="text-uppercase text-white">Strawberries</h6>
+									<p class="text-white"> </p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-service">
+								<div class="thumb" style="background: url(img/blues.jpg);">
+									<div class="overlay overlay-content d-flex justify-content-center align-items-center">
+										<a href="#" class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Get Started</span><span class="lnr lnr-arrow-right"></span></a>
+									</div>
+								</div>
+								<div class="desc">
+									<h6 class="text-uppercase text-white">Blueberries</h6>
+									<p class="text-white"></p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-service">
+								<div class="thumb" style="background: url(img/pina.jpg);">
+									<div class="overlay overlay-content d-flex justify-content-center align-items-center">
+										<a href="#" class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Get Started</span><span class="lnr lnr-arrow-right"></span></a>
+									</div>
+								</div>
+								<div class="desc">
+									<h6 class="text-uppercase text-white">Pineapples</h6>
+									<p class="text-white"></p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-service">
+								<div class="thumb" style="background: url(img/peach.jpg);">
+									<div class="overlay overlay-content d-flex justify-content-center align-items-center">
+										<a href="#" class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Get Started</span><span class="lnr lnr-arrow-right"></span></a>
+									</div>
+								</div>
+								<div class="desc">
+									<h6 class="text-uppercase text-white">Peaches</h6>
+									<p class="text-white"> </p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- End Service Area -->
+			<!-- Start Amazing Works Area -->
+		</div>
+		<div class="main-wrapper">
+			<section class="amazing-works-area">
+					<div class="row justify-content-center">
+						<div class="col-lg-8">
+							<div class="section-title text-center">
+								<h3>Our Amazing Works</h3>
+								<span class="text-uppercase">Re-imagining the way</span>
+							</div>
+						</div>
+					</div>
+					<div class="active-works-carousel mt-40">
+						<div class="item">
+							<div class="thumb" style="background: url(img/fruits.jpg);"></div>
+							<div class="caption text-center">
+								<h6 class="text-uppercase">Decisions, Dicisions</h6>
+								<p>How exactly does one find a fresh piece of ripe, sweet, and juicy fruit? With such a large amount of produce in stores and markets, finding the perfect peice of fruit can be overwhelming. Our goal is to help you choose the best fruits out of the ones available to you.</p>
+							</div>
+						</div>
+						<div class="item">
+							<div class="thumb" style="background: url(img/gross.jpg);"></div>
+							<div class="caption text-center">
+								<h6 class="text-uppercase">Grocery Stores</h6>
+								<p>A quick and probably the most common place to buy fruits and veggies.</p>
+							</div>
+						</div>
+						<div class="item">
+							<div class="thumb" style="background: url(img/market.jpg);"></div>
+							<div class="caption text-center">
+								<h6 class="text-uppercase">Farmers Markets</h6>
+								<p>Local farmers markets are a great place to buy fresh, delicious fruits and veggies. Not only are they fairly unexpensive, but shopping at markets are a fun way to support local businesses.</p>
+							</div>
+						</div>
+					</div>
+			</section>
+		</div>
+		<div class="main-wrapper">
+			<!-- End Amazing Works Area -->
+			<!-- Start Story Area -->
+			<section class="story-area">
+				<div class="container">
+					<div class="row align-items-center">
+						<div class="col-lg-3">
+							<div class="story-title">
+								<h3 class="text-white">Our Untold Story</h3>
+								<span class="text-uppercase text-white">Re-imagining the way</span>
+							</div>
+						</div>
+						<div class="col-lg-6">
+							<div class="story-box">
+								<h6 class="text-uppercase">From the part of beginning</h6>
+								<p>Usage of the Internet is becoming more common due to rapid advancement of technology and the power of globalization. Societies are becoming more inter-connected. Thoughts from different</p>
+								<a href="#" class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Get Started</span><span class="lnr lnr-arrow-right"></span></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- End Story Area -->
+			<!-- Start Subscription Area -->
+			<section class="subscription-area">
+				<div class="container">
+					<div class="row justify-content-center">
+						<div class="col-lg-8">
+							<div class="section-title text-center">
+								<h3>Subscribe for our Newsletter</h3>
+								<span class="text-uppercase">Re-imagining the way</span>
+							</div>
+						</div>
+					</div>
+					<div class="row justify-content-center">
+						<div class="col-lg-6">
+							<div id="mc_embed_signup">
+								<form target="_blank" novalidate action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&id=92a4423d01" method="get" class="subscription relative">
+									<input type="email" name="EMAIL" placeholder="Email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email address'" required>
+									<div style="position: absolute; left: -5000px;">
+										<input type="text" name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="">
+									</div>
+									<button class="primary-btn hover d-inline-flex align-items-center"><span class="mr-10">Get Started</span><span class="lnr lnr-arrow-right"></span></button>
+									<div class="info"></div>
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- End Subscription Area -->
+			<!-- Start Footer Widget Area -->
+			<section class="footer-widget-area">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-4">
+							<div class="single-widget d-flex flex-wrap justify-content-between">
+								<div class="icon d-flex align-items-center justify-content-center">
+									<span class="lnr lnr-pushpin"></span>
+								</div>
+								<div class="desc">
+									<h6 class="title text-uppercase">Address</h6>
+									<p>56/8, panthapath, west <br> dhanmondi, kalabagan, <br>Dhaka - 1205</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="single-widget d-flex flex-wrap justify-content-between">
+								<div class="icon d-flex align-items-center justify-content-center">
+									<span class="lnr lnr-earth"></span>
+								</div>
+								<div class="desc">
+									<h6 class="title text-uppercase">Email Address</h6>
+									<div class="contact">
+										<a href="mailto:info@dataarc.com">info@dataarc.com</a> <br>
+										<a href="mailto:support@dataarc.com">support@dataarc.com</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="single-widget d-flex flex-wrap justify-content-between">
+								<div class="icon d-flex align-items-center justify-content-center">
+									<span class="lnr lnr-phone"></span>
+								</div>
+								<div class="desc">
+									<h6 class="title text-uppercase">Phone Number</h6>
+									<div class="contact">
+										<a href="tel:1545">012 4562 982 3612</a> <br>
+										<a href="tel:54512">012 6321 956 4587</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- End Footer Widget Area -->
+			<!-- Start footer Area -->
+			<footer>
+				<div class="container">
+					<div class="footer-content d-flex justify-content-between align-items-center flex-wrap">
+						<div class="logo">
+							<img src="img/logo.png" alt="">
+						</div>
+						<div class="copy-right-text">Copyright &copy; 2017  |  All rights reserved to Dinomuz inc. This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></div>
+						<div class="footer-social">
+							<a href="#"><i class="fa fa-facebook"></i></a>
+							<a href="#"><i class="fa fa-twitter"></i></a>
+							<a href="#"><i class="fa fa-dribbble"></i></a>
+							<a href="#"><i class="fa fa-behance"></i></a>
+						</div>
+					</div>
+				</div>
+			</footer>
+			<!-- End footer Area -->
+		</div>
+
+
+
+
+		<script src="js/vendor/jquery-2.2.4.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+		<script src="js/vendor/bootstrap.min.js"></script>
+		<script src="js/jquery.ajaxchimp.min.js"></script>
+		<script src="js/owl.carousel.min.js"></script>
+		<script src="js/jquery.nice-select.min.js"></script>
+		<script src="js/jquery.magnific-popup.min.js"></script>
+		<script src="js/main.js"></script>
+	</body>
+</html>
